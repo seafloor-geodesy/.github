@@ -1,0 +1,3 @@
+# Welcome to Seafloor Geodesy Community GitHub Organization
+
+More info coming soon...
