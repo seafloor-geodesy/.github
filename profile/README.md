@@ -1,3 +1,3 @@
 # Welcome to Seafloor Geodesy Community GitHub Organization
 
-More info coming soon...
+This GitHub Organization serves as the place for hosting code repositories related to seafloor geodesy, primarily for the US scientific community.
